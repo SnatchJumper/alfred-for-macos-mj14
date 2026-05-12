@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS utility with premium Utility for Alfred for macOS - database templates and real-time editing. Featuring database templates and real-time editing,
 
 
 
